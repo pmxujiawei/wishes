@@ -39,12 +39,12 @@
 	<classpathentry kind="lib" path="lib/hadoop-archives-2.6.0.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-auth-2.6.0.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-aws-2.6.0.jar"/>
-	<classpathentry kind="lib" path="lib/hadoop-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-common-2.6.0.jar" sourcepath="D:/hadoop/hadoop-2.6.0-src/hadoop-hdfs-project/hadoop-hdfs"/>
 	<classpathentry kind="lib" path="lib/hadoop-datajoin-2.6.0.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-distcp-2.6.0.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-extras-2.6.0.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-gridmix-2.6.0.jar"/>
-	<classpathentry kind="lib" path="lib/hadoop-hdfs-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-hdfs-2.6.0.jar" sourcepath="D:/hadoop/hadoop-2.6.0-src/hadoop-hdfs-project/hadoop-hdfs/src"/>
 	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-app-2.6.0.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-common-2.6.0.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-core-2.6.0.jar"/>

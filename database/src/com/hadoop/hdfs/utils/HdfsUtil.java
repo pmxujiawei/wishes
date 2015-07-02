@@ -80,7 +80,7 @@ public class HdfsUtil {
 			String dstLocalPath) {
 		if (StringUtils.isEmpty(srcHdfsPath)
 				|| StringUtils.isEmpty(dstLocalPath)) {
-			log.error("文件名为空，请检查！");
+			log.error("文件名为空，请检查!");
 			return false;
 		}
 		if (srcHdfsPath.startsWith("hdfs:")) {
